@@ -1,4 +1,4 @@
-
 ## Project Preview
 
-![Hero Image](images/hero.png)
+![Hero Image](./images/hero.png)
+
